@@ -14,4 +14,6 @@ Report detailing the findings of my investigation - Mark_Ryan_Comp_proj_Report.p
 
 Poster - Summative_Poster_Mark_Ryan.pdf
 
+Presentation - Comp_proj_talk_slides.pdf
+
 As well as this I also developed a 3 body simulation so that I could get to grips with the types of calculations that would be needed to make the n-body simulation for my clusters. The code for this can be found in the file titled milestone.ipynb.
