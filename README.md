@@ -4,7 +4,7 @@ My code for these can be found in the following files:
 
 A single cluster collapsing under its own gravity - single_cluster.py
 
-Head-on collision of two clusters - collision_animation.py and - cluster_collision.ipynb
+Head-on collision of two clusters - collision_animation.py - and - cluster_collision.ipynb
                                   
 Grazing collision of two clusters - grazing_collision.py
 
