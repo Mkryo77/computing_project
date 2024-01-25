@@ -2,7 +2,7 @@ This repository is dedicated to showcasing the highlights from the computing pro
 
 My code for these can be found in the following files:
 
-A single cluster collapsing under its own gravity - single_cluster.py
+A single cluster collapsing under its own gravity - collision.ipynb
 
 Head-on collision of two clusters - collision_animation.py - and - cluster_collision.ipynb
                                   
